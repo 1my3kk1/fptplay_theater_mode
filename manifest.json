@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "fptplay_theater_mode",
+  "version": "1.0",
+  "description": "biến giao diện fptplay thành cứt! - mod chỉ phóng to trình phát, xoá phần thông tin phim để hiển thị danh sách tập phim bên dưới trình phát.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://fptplay.vn/*"],
+      "css": ["style.css"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

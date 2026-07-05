@@ -1,0 +1,27 @@
+.PlayerSection.f-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#player_wrapper,
+#video-container {
+    width: 100vw !important;
+    height: 90vh !important;
+}
+
+#player_wrapper video,
+#video-container video {
+    width: 100vw !important;
+    height: 90vh !important;
+}
+
+#overlay-logo {
+    display: none !important;
+}
+
+.ListEspisodeComponent.ListEspisodeComponent-default.episode-list {
+    width: 100% !important;
+    overflow: visible !important;
+}
