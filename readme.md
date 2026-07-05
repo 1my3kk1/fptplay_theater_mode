@@ -38,3 +38,7 @@
 hoặc
 
 [![Install](https://img.shields.io/badge/Install-Userscript-success?style=for-the-badge)](https://github.com/1my3kk1/fptplay_theater_mode/raw/refs/heads/main/fptplay-theater-mode.user.js) cho nhanh ;)
+
+
+
+>lí do vì đã quen sử dụng ***youtube*** với theater mode ([extension này](https://chromewebstore.google.com/detail/better-youtube-theatre-mo/ffloofbaleegoikgiicbdchcnkdamkbn)) hoặc vì thích.
