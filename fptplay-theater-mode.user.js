@@ -77,5 +77,5 @@
     });
     observer.observe(document.body, { childList: true, subtree: true });
 
-    console.log('FPT Play Theater Mode: extension đang được bật');
+    console.log('fptplay_theater_mode không có debug');
 })();
