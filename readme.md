@@ -31,7 +31,7 @@
  2. tạo **tập lệnh mới** trong tampermonkey 
 (hoặc chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor)
 
- 3. dán toàn bộ nội dung của file /fptplay-theater-mode.user.js vào 
+ 3. dán toàn bộ nội dung của file [fptplay-theater-mode.user.js](fptplay-theater-mode.user.js) vào 
 
 4. `ctrl (or cmd) + s` để lưu  
  
