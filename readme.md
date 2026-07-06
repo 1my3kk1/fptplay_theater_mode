@@ -26,7 +26,7 @@
 
 #### userscript:
 
- 1. tải extension [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+ 1. tải extension [![Tampermonkey](https://img.shields.io/badge/Tampermonkey--gray?logo=tampermonkey)](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
  
  2. tạo **tập lệnh mới** trong tampermonkey 
 (hoặc chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/options.html#nav=new-user-script+editor)
@@ -37,7 +37,7 @@
  
 hoặc
 
-[![Install](https://img.shields.io/badge/Install-Userscript-success?style=for-the-badge)](https://github.com/1my3kk1/fptplay_theater_mode/raw/refs/heads/main/fptplay-theater-mode.user.js) cho nhanh ;)
+[![Install](https://img.shields.io/badge/Install-Userscript-success)](https://github.com/1my3kk1/fptplay_theater_mode/raw/refs/heads/main/fptplay-theater-mode.user.js) cho nhanh ;)
 
 
 
